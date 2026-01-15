@@ -17,6 +17,17 @@
 
 
 
+---
+
+* Tutorial: https://youtu.be/fGR7Iqiq8Ag
+* Tutorial: https://cryptodeeptech.ru/phantom-signature-attack
+* Tutorial: https://dzen.ru/video/watch/69682001b2d5f9209f8b4606
+* Google Colab: https://bitcolab.ru/keyfuzzmaster-cryptanalytic-fuzzing-engine
+
+---
+
+
+
 <p>However, maintaining&nbsp;&nbsp;<em>legacy architectural solutions to ensure backward compatibility has led to the emergence of subtle cryptographic vulnerabilities with potentially catastrophic consequences. Among these,&nbsp;</em><strong><a href="https://cryptodeeptech.ru/digital-signature-forgery-attack/" target="_blank" rel="noreferrer noopener">the SIGHASH_SINGLE bug</a></strong>&nbsp;&nbsp;stands out&nbsp;&nbsp;&nbsp;—a fundamental flaw in the signature hash generation mechanism, inherited from the original Bitcoin Core implementation and integrated into the network consensus.</p>
 
 
